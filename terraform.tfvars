@@ -1,0 +1,10 @@
+// Change to your own azure environment
+subscription_id                  = "<fill your subscription id>"
+client_id                        = "<fill your cient id>"
+client_secret                    = "<fill your client secret>"
+tenant_id                        = "<fill your tenant id>"
+environment                      = "china"
+location                         = "<resource_location>"
+customuri                        = "https://<blobname>.blob.core.chinacloudapi.cn/vhd/<filename>.vhd"
+custom_image_name                = "FGT_VM64_AZURE-v7.0.x"
+custom_image_resource_group_name = "<resource_group_name>"
